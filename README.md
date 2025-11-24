@@ -73,7 +73,7 @@ The codebase is fully modular with a clean `/src` directory.
 ├─ LICENSE
 ├─ .gitignore
 └─ README.md
-
+```
 📊 Dataset
 
 The dataset used is:
