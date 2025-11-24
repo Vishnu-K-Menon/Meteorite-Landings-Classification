@@ -106,10 +106,11 @@ Confusion matrices
 
 Comparison across models
 
-📜 License
+## 📜 License
 
-This project is licensed under the MIT License.
-See LICENSE for details.
+This project is licensed under the **MIT License**.  
+See the full license here: **[LICENSE](LICENSE)**.
+
 
 ---
 
