@@ -19,7 +19,7 @@
   <img src="assets/demo.gif" alt="Meteorite Landings Classification Demo" width="700">
 </p>
 
-# Meteorite Landings Classification 🪐
+
 
 This project builds a full machine learning pipeline to classify meteorites into broad types using the **NASA Meteorite Landings** dataset. It covers:
 
