@@ -113,13 +113,4 @@ See LICENSE for details.
 
 ---
 
-# 🚀 You're All Set  
-Just paste the above into your README and push — it will render beautifully.
 
-If you want:
-
-✅ an architecture diagram  
-✅ a demo GIF  
-✅ multiple logo styles  
-✅ a “Model Performance” table  
-— I can generate them for you.
