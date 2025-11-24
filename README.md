@@ -5,7 +5,6 @@
 <h1 align="center">Meteorite Landings Classification 🪐</h1>
 
 <p align="center">
-  <img src="https://github.com/Vishnu-K-Menon/Meteorite-Landings-Classification/actions/workflows/ci.yml/badge.svg" alt="CI Status">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python 3.10+">
   <img src="https://img.shields.io/github/license/Vishnu-K-Menon/Meteorite-Landings-Classification" alt="License MIT">
   <img src="https://img.shields.io/github/stars/Vishnu-K-Menon/Meteorite-Landings-Classification?style=social" alt="Stars">
